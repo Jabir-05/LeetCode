@@ -1,0 +1,13 @@
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore build files
+dist/
+out/
+build/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
